@@ -20,10 +20,10 @@
 
 ## 🖼 Preview
 
-![Windows Terminal Interface](https://upload.wikimedia.org/wikipedia/commons/9/93/Windows_Terminal_v1.0_1138x624.png)  
+![Windows Terminal Interface](https://learn.microsoft.com/en-us/windows/terminal/images/attach-tab.gif)  
 *Multiple profiles running in Windows Terminal*
 
-![Tab Management](https://learn.microsoft.com/en-us/windows/terminal/images/attach-tab.gif)  
+![Tab Management](https://upload.wikimedia.org/wikipedia/commons/9/93/Windows_Terminal_v1.0_1138x624.png)  
 *Animated tab management and pane attachment*
 
 ![Microsoft Store Preview Image](https://store-images.s-microsoft.com/image/apps.64156.13926773940052066.16e93a5b-b25f-4aaf-8a38-77375e237879.00013886-8351-473f-9acd-7fcce9ee7388)  
