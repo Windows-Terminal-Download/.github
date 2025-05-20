@@ -12,11 +12,11 @@
 
 ## 🎯 What You Unlock
 
-    🎨 Full theme and color scheme customization  
-    🧩 PowerShell, WSL, Git Bash integration  
-    🚀 Optimized startup and rendering performance  
-    🛠 No Microsoft Store or online login required  
-    💾 Offline configuration templates and settings backup
+🎨 Full theme and color scheme customization  
+🧩 PowerShell, WSL, Git Bash integration  
+🚀 Optimized startup and rendering performance  
+🛠 No Microsoft Store or online login required  
+💾 Offline configuration templates and settings backup
 
 ## 🖼 Preview
 
